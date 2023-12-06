@@ -1,0 +1,12 @@
+
+# IDE
+*.egg-info/
+build/
+dist/
+
+# NODE
+node_modules
+package-lock.json
+
+# OSX
+.DS_Store
